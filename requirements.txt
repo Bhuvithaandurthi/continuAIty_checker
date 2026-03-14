@@ -1,6 +1,10 @@
-opencv-python
-scikit-image
 streamlit
-ultralytics
+opencv-python-headless
 numpy
+scikit-image
+ultralytics
+--index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
 Pillow
+scikit-learn
