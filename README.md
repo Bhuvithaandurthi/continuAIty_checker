@@ -1,6 +1,7 @@
 # 🎬 ContinuAIty Checker: Deep Learning Video Anomaly Detection
 
-[![AI DevOps Pipeline](https://github.com/Bhuvithaandurthi/continuAIty_checker/actions/workflows/main.yml/badge.svg)](https://github.com/Bhuvithaandurthi/continuAIty_checker/actions)
+[![AI DevOps Pipeline](https://github.com/Bhuvithaandurthi/continuAIty_checker/actions/workflows/devops.yml/badge.svg)](https://github.com/Bhuvithaandurthi/continuAIty_checker/actions/workflows/devops.yml)
+
 
 ### 📄 Abstract
 The **ContinuAIty Checker** is an automated, AI-driven computer vision pipeline designed to detect visual inconsistencies and temporal anomalies across consecutive film shots. By replacing manual continuity logging with deep learning, this system ensures seamless transitions in video production environments.
